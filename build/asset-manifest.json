@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9737374.css",
+    "main.js": "/static/js/main.500b140c.js",
+    "static/media/Cup.png": "/static/media/Cup.034f1e05a3752579e0b0.png",
+    "static/media/Machines.png": "/static/media/Machines.5d60ad109e474b0f68aa.png",
+    "static/media/Prize.png": "/static/media/Prize.8563a9b8604354554997.png",
+    "static/media/Logo.png": "/static/media/Logo.c3067270311d834dd695.png",
+    "index.html": "/index.html",
+    "main.c9737374.css.map": "/static/css/main.c9737374.css.map",
+    "main.500b140c.js.map": "/static/js/main.500b140c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9737374.css",
+    "static/js/main.500b140c.js"
+  ]
+}
